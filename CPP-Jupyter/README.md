@@ -9,4 +9,4 @@ docker pull yilengyao/jupyter-cpp
 
 # Mount Docker image to local directory for development
 
-sudo docker run -it -p 8888:8888 -v /home/yi/Documents/tutorials/tutorials:/home/jovyan/work jupyter-cpp
+sudo docker run -it -p 8888:8888 -v <local development directory>:/home/jovyan/work jupyter-cpp
