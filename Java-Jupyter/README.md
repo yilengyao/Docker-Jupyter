@@ -1,4 +1,4 @@
-# Special thinks to Spencer Parks for providing the Jupyter Kernel
+# Special thanks to Spencer Parks for providing the Jupyter Kernel
 
 
 # Obtaining the docker image
