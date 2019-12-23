@@ -4,8 +4,9 @@
 # Obtaining the docker image
 
 ## Option 1
-docker build -t jupyter-java .
-docker run -it -p 8888:8888 jupyter-java
+```cd Java-Jupyter```
+```docker build -t jupyter-java .```
+```docker run -it -p 8888:8888 jupyter-java```
 
 ## Option 2
 docker pull yilengyao/jupyter-java
