@@ -7,6 +7,8 @@
 
 ```git clone https://github.com/YilengYao/Docker-Jupyter.git```
 
+```cd Docker-Jupyter```
+
 ```cd Java-Jupyter```
 
 ```docker build -t jupyter-java .```
