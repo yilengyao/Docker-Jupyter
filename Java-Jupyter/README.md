@@ -17,7 +17,7 @@
 
 ## Option 2
 
-```docker pull yilengyao/jupyter-java```
+```docker pull yilengyao/jupyter-java:1```
 
 # Mount Docker image to local directory for development
 
